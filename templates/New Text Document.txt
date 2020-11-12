@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Welcome</title>
+</head>
+<body>
+
+<h1>Welcome to my homepage</h1>
+<p>Thank you for visiting my page</p>
+
+
+<img src="home.png" alt="Home Picture" width="104" height="142">
+
+</body>
+</html>
